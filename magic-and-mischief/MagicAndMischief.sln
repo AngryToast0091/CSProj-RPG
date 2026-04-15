@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36915.13 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagicAndMischief", "MagicAndMischief.csproj", "{13C18038-5B67-4B6C-82EC-F2533827806A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary", "..\ClassLibrary\ClassLibrary.csproj", "{459C9288-4EC7-4B10-B684-19373AF274D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		ExportDebug|Any CPU = ExportDebug|Any CPU
+		ExportRelease|Any CPU = ExportRelease|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13C18038-5B67-4B6C-82EC-F2533827806A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13C18038-5B67-4B6C-82EC-F2533827806A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13C18038-5B67-4B6C-82EC-F2533827806A}.ExportDebug|Any CPU.ActiveCfg = ExportDebug|Any CPU
+		{13C18038-5B67-4B6C-82EC-F2533827806A}.ExportDebug|Any CPU.Build.0 = ExportDebug|Any CPU
+		{13C18038-5B67-4B6C-82EC-F2533827806A}.ExportRelease|Any CPU.ActiveCfg = ExportRelease|Any CPU
+		{13C18038-5B67-4B6C-82EC-F2533827806A}.ExportRelease|Any CPU.Build.0 = ExportRelease|Any CPU
+		{459C9288-4EC7-4B10-B684-19373AF274D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{459C9288-4EC7-4B10-B684-19373AF274D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{459C9288-4EC7-4B10-B684-19373AF274D3}.ExportDebug|Any CPU.ActiveCfg = Release|Any CPU
+		{459C9288-4EC7-4B10-B684-19373AF274D3}.ExportDebug|Any CPU.Build.0 = Release|Any CPU
+		{459C9288-4EC7-4B10-B684-19373AF274D3}.ExportRelease|Any CPU.ActiveCfg = Release|Any CPU
+		{459C9288-4EC7-4B10-B684-19373AF274D3}.ExportRelease|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5935C75-CD57-4C70-B350-92DA06029002}
+	EndGlobalSection
+EndGlobal
